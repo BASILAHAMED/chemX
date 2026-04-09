@@ -2,6 +2,8 @@
 
 chemX is an interactive chemistry practice web application designed for school students to explore basic reactions in a safe virtual lab. It combines guided learning missions with visual simulation effects such as color changes, bubbling, foam, and a browser-based 3D lab scene.
 
+<img width="1869" height="986" alt="image" src="https://github.com/user-attachments/assets/f2029065-939a-4150-b34b-040e51cd50d7" />
+
 ## Overview
 
 The project is built as a frontend-only learning experience for middle-school and early high-school chemistry practice. Students can open missions, select reagents, mix them in a virtual beaker, and observe the outcome through rule-based reaction logic and animated feedback.
